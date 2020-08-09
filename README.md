@@ -21,10 +21,10 @@ $ python manage.py runserver
 ### About the Database
 
 **University**
-- alpha_two_code CharField - 2 digit code
-- country CharField - country name
-- domain CharField - domain
-- name CharField - name of University
+- alpha_two_code: CharField - 2 digit code
+- country: CharField - country name
+- domain: CharField - domain
+- name: CharField - name of University
 - web_page: CharField - url
 - created_date: DatetimeField - Date of creation
 
