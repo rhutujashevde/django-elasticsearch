@@ -45,7 +45,7 @@ $ python manage.py runserver
 
 #### 4. DELETE [search/](http://127.0.0.1:8000/search/)
 
-* DELETE specific object using id
+> DELETE specific object using id
 
 ### Postman Collection for the above APIs
 
