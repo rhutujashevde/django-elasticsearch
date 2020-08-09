@@ -31,9 +31,8 @@ $ python manage.py runserver
 
 ### APIs
 
-> GET [search/](http://127.0.0.1:8000/search/)
-
-* READ data using search or filter
+* GET [search/](http://127.0.0.1:8000/search/)
+> READ data using search or filter
 
 > POST [search/](http://127.0.0.1:8000/search/)
 
