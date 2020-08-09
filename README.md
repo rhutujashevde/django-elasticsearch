@@ -15,9 +15,9 @@
 * [ElasticSearch](https://www.elastic.co/downloads/elasticsearch)
 
 ### How to run the project
-
+```
 $ python manage.py runserver
-
+```
 ### About the Database
 
 **University**
