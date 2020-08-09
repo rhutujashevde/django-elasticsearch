@@ -43,8 +43,7 @@ $ python manage.py runserver
 
 * UPDATE an object using id
 
-* DELETE [search/](http://127.0.0.1:8000/search/)
-
+>* DELETE [search/](http://127.0.0.1:8000/search/)
 > DELETE specific object using id
 
 ### Postman Collection for the above APIs
