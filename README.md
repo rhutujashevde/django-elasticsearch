@@ -20,7 +20,7 @@ $ python manage.py runserver
 
 ### About the Database
 
-* University
+*University
 - alpha_two_code CharField - 2 digit code
 - country CharField - country name
 - domain CharField - domain
