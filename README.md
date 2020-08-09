@@ -4,7 +4,7 @@
 
 - This app can perform CRUD operations on a database.
 - Uses Elastic search for GET queries.
-- Search and Fliter option avaliable.
+- Can perform Search and Fliter operations on some fields.
 
 ## PreRequisites
 
