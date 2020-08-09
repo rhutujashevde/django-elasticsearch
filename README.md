@@ -31,21 +31,21 @@ $ python manage.py runserver
 
 ### APIs
 
-#### 1. GET [search/](http://127.0.0.1:8000/search/)
+#### > GET [search/](http://127.0.0.1:8000/search/)
 
 * READ data using search or filter
 
-#### 2. POST [search/](http://127.0.0.1:8000/search/)
+#### > POST [search/](http://127.0.0.1:8000/search/)
 
 * CREATE object
 
-#### 3. PUT [search/](http://127.0.0.1:8000/search/)
+#### > PUT [search/](http://127.0.0.1:8000/search/)
 
 * UPDATE an object using id
 
-#### 4. DELETE [search/](http://127.0.0.1:8000/search/)
+#### > DELETE [search/](http://127.0.0.1:8000/search/)
 
-> DELETE specific object using id
+ DELETE specific object using id
 
 ### Postman Collection for the above APIs
 
